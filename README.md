@@ -1,5 +1,5 @@
 # Solidity Gas Optimization Tips
-Solidity Gas Optimization Tips taken from various sources (sources listed in the #credits section below).
+Solidity Gas Optimization Tips taken from various sources.
 
 
 # Gas Optimizations in Solidity
